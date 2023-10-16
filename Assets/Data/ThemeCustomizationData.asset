@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3762dbb810b7be24bb9aca56d34e84f6, type: 3}
+  m_Name: ThemeCustomizationData
+  m_EditorClassIdentifier: 
+  FrontCardSourceDirectory: D:\UnityProject\CodeChallenge\MAUGamesTest\Assets\Art\CardFronts\Set2Source
+  FrontCardDestinationDirectory: D:\UnityProject\CodeChallenge\MAUGamesTest\Assets\Art\CardFronts\Set2
+  CradsFrontData:
+  - Type: 1
+    PreviewSprite: {fileID: 21300000, guid: eab4805a3eebe2842bebabe4fa934fee, type: 3}
+    SpriteAtlas: {fileID: 100100200, guid: d37da6587a52e0249b4db4996b701b25, type: 3}
+  - Type: 2
+    PreviewSprite: {fileID: 21300000, guid: 0ed7dbf3bb894854b8ea062439c0a022, type: 3}
+    SpriteAtlas: {fileID: 100100200, guid: 05f473ea86fd0ad468f9d5e198f26c47, type: 3}
+  CardsBackData:
+  - Type: 1
+    PreviewSprite: {fileID: 21300000, guid: 2c74de45c2228474ab96b3a3fac2af2f, type: 3}
+  - Type: 2
+    PreviewSprite: {fileID: 21300000, guid: 6d6a01b4d71f58e4ea3831ff419e7f9f, type: 3}
+  - Type: 3
+    PreviewSprite: {fileID: 21300000, guid: 9b55a0c0c188f1f449aabcd00f27edf1, type: 3}
+  - Type: 4
+    PreviewSprite: {fileID: 21300000, guid: 98f004a2c6b84da42b18373cc7a38b36, type: 3}
+  - Type: 5
+    PreviewSprite: {fileID: 21300000, guid: 3601ed3d23ac8b141bee22014a20ca26, type: 3}
+  - Type: 6
+    PreviewSprite: {fileID: 21300000, guid: 1c1cf216137d72b4493ae7136d0bb6f0, type: 3}
+  - Type: 7
+    PreviewSprite: {fileID: 21300000, guid: 5802d64c5d251944f9cb45db80d352ed, type: 3}
+  - Type: 8
+    PreviewSprite: {fileID: 21300000, guid: abf06399aec7b364a8ed7fc0b1fcdf35, type: 3}
+  BackgroundsData:
+  - Type: 1
+    SpritePath: Backgrounds\BackMain
+    Thumbnail: {fileID: 21300000, guid: b42a6251d6c24274dbf3641290bb8af1, type: 3}
+  - Type: 2
+    SpritePath: Backgrounds\Back1
+    Thumbnail: {fileID: 21300000, guid: 514bc4b7288db1448abeff3b7262d4b0, type: 3}
+  - Type: 3
+    SpritePath: Backgrounds\Back2
+    Thumbnail: {fileID: 21300000, guid: c341fefe3e7421341935031154f04f4c, type: 3}
+  - Type: 4
+    SpritePath: Backgrounds\Back3
+    Thumbnail: {fileID: 21300000, guid: b344477ec5c1adf46a2fdaee7ba09637, type: 3}
+  - Type: 5
+    SpritePath: Backgrounds\Back4
+    Thumbnail: {fileID: 21300000, guid: d6453de1c6106184794ec8c5e51fb2e3, type: 3}
